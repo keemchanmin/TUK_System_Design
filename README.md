@@ -1,4 +1,15 @@
-# 한국공학대학교 시스템 설계 교과목 강의 참고자료입니다.
-다운로드를 통해 실습에서 사용될 예제 코드를 사용해보실 수 있습니다.
+# System Architecture
+![image](https://github.com/user-attachments/assets/8f13bd4d-049b-4586-935f-70a4c20e346a)
 
+# Software Architecture
+![image](https://github.com/user-attachments/assets/da03473a-fdd7-4c1c-9130-3948ba84ed3c)
+
+# 개발 환경 
+|구성 요소|상세 스펙(Spec)|
+|---|---|
+|운영체제(OS)|**Windows11**|
+|IDE|**Visual Studio 2022**|
+|Framework|**Windows Forms**|
+|Nuget|**OpenCvSharp<br>OpenCvSharp.Extensions<br>OpenCvSharp.runtime.win**|
+ 
 
